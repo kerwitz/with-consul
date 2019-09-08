@@ -1,0 +1,23 @@
+{
+  "name": "with-consul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerwitz/with-consul.git"
+  },
+  "author": "Marco Kerwitz <marco@kerwitz.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kerwitz/with-consul/issues"
+  },
+  "homepage": "https://github.com/kerwitz/with-consul#readme",
+  "dependencies": {
+    "consul": "^0.35.0",
+    "uuid": "^3.3.3"
+  }
+}
