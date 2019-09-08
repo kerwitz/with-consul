@@ -5,6 +5,7 @@ a new service instance to consul.
 ```
 npm i -D with-consul
 ```
+![npm](https://img.shields.io/npm/dm/with-consul?style=flat-square) ![npm](https://img.shields.io/npm/v/with-consul?style=flat-square)
 
 ## Usage
 ```js
